@@ -124,23 +124,31 @@ flutter run
 
 ---
 
-## 🌐 Links & Profiles
+## 🌐 Links & Profiles  
 
-- GitHub: https://github.com/9A-Ayush  
-- LinkedIn: http://www.linkedin.com/in/ayush-kumar-849a1324b  
-- Instagram: https://www.instagram.com/ayush_ix_xi  
+[![GitHub](https://img.shields.io/badge/GitHub-9A--Ayush-black?logo=github&style=for-the-badge)](https://github.com/9A-Ayush)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumar-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/ayush-kumar-849a1324b)  
+[![Instagram](https://img.shields.io/badge/Instagram-%40ayush__ix__xi-pink?logo=instagram&style=for-the-badge)](https://www.instagram.com/ayush_ix_xi)  
+
+---
+
+## 📦 Main Repo
+
+[![Main Repo](https://img.shields.io/badge/Related%20Repo-Curevia-green?style=for-the-badge&logo=github)](https://github.com/9A-Ayush/visitify-.git)  
 
 ---
 
 ## 👨‍💻 Author
+**Ayush Kumar**  
 
-**Ayush Kumar**
+[![GitHub followers](https://img.shields.io/github/followers/9A-Ayush?style=social)](https://github.com/9A-Ayush)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](http://www.linkedin.com/in/ayush-kumar-849a1324b)  
 
 ---
+## ☕ Support My Work  
 
-## ☕ Support My Work
-
-https://buymeacoffee.com/9a.ayush
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9a.ayush)
+ 
 
 ---
 
@@ -149,3 +157,4 @@ _Code. Secure. Innovate._
 
 
    
+
