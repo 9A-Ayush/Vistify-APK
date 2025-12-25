@@ -134,7 +134,7 @@ flutter run
 
 ## 📦 Main Repo
 
-[![Main Repo](https://img.shields.io/badge/Related%20Repo-Curevia-green?style=for-the-badge&logo=github)](https://github.com/9A-Ayush/visitify-.git)  
+[![Main Repo](https://img.shields.io/badge/Related%20Repo-Visitify-#1871CD?style=for-the-badge&logo=github)](https://github.com/9A-Ayush/visitify-.git)  
 
 ---
 
@@ -157,4 +157,5 @@ _Code. Secure. Innovate._
 
 
    
+
 
